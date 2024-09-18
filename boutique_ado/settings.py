@@ -42,9 +42,12 @@ INSTALLED_APPS = [
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
+
+   # PROJECT APPS 
     'home',
     'products',
     'bag',
+    'checkout',
 
 ]
 
